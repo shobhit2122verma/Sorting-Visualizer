@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/shobhit2122verma/Sorting-Visualizer/edit/master/README.md)
+![Project Image](https://github.com/shobhit2122verma/Sorting-Visualizer/blob/master/image/gif.gif)
 
 ---
 
